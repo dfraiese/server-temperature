@@ -1,0 +1,2 @@
+*/10 * * * * python /home/diego/logtemp.py >> /home/diego/logtemp.cvs
+
